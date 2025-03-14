@@ -23,3 +23,11 @@ _Bom apetite!_
  ![Bolo](https://panelaterapia.com/wp-content/uploads/2017/03/bolo-chocolate-fofinho.jpg)
  
  [Bolo](https://panelaterapia.com/bolo-de-chocolate-fofinho/#google_vignette)
+
+## Tabela Amigos
+| Nome | Idade | Profissão |
+|------|-------|-----------|
+| Derick | 18 | Desempregado |
+| Jonathan | 29 | Agente social |
+| Lucas | 26 | Desempregado |
+
