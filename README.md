@@ -20,9 +20,9 @@
 
 _Bom apetite!_
 
- ![Bolo](https://panelaterapia.com/wp-content/uploads/2017/03/bolo-chocolate-fofinho.jpg)
+ ![Bolo](https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-chocolate-facil-e-barato-rspxk8nc.jpg)
  
- [Bolo](https://panelaterapia.com/bolo-de-chocolate-fofinho/#google_vignette)
+ [Bolo](https://bakeandcakegourmet.com.br/receitas/bolo-de-chocolate-facil-e-barato#google_vignette)
 
 ## Tabela Amigos
 | Nome | Idade | Profissão |
